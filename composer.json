@@ -1,0 +1,13 @@
+{
+    "name": "pycmam/api-boxberry",
+    "description": "Fork of fucking ugly boxberry lib",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Boxberry\\": "./"
+        }
+    },
+    "minimum-stability": "stable"
+}
+
